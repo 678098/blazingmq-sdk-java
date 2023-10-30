@@ -17,7 +17,7 @@ limitations under the License. -->
 
   <groupId>com.bloomberg.bmq</groupId>
   <artifactId>bmq-sdk-java</artifactId>
-  <version>0.0.10-SNAPSHOT</version>
+  <version>0.0.10</version>
   <packaging>pom</packaging>
 
   <name>BlazingMQ Java SDK Bundle</name>
@@ -103,7 +103,7 @@ limitations under the License. -->
       <dependency>
         <groupId>com.bloomberg.bmq</groupId>
         <artifactId>bmq-sdk</artifactId>
-        <version>0.0.10-SNAPSHOT</version>
+        <version>0.0.10</version>
       </dependency>
 
       <dependency>
